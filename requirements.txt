@@ -1,0 +1,12 @@
+# Data Extraction
+requests>=2.31.0
+
+# Data Transformation & Analysis
+pandas>=2.0.0
+
+# Database Connectivity & ORM
+sqlalchemy>=2.0.0
+pyodbc>=5.0.0
+
+# Optional: Helper for URL encoding connection strings
+urllib3>=2.0.0

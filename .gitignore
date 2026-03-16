@@ -1,0 +1,27 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Data Folders (Prevents uploading your CSVs and JSONs)
+data/
+*.csv
+*.json
+*.sql
+
+# Virtual Environments
+venv/
+.venv/
+env/
+bin/
+include/
+lib/
+share/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
